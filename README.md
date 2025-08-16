@@ -35,6 +35,3 @@ The model demonstrated strong performance in predicting the sentiment of positiv
     ```
     Open the `Arabic_company_reviews_Using_LSTM_Model.ipynb` file and run the cells step by step.
 
------
-
-**Note:** This project is an excellent starting point. It can be further developed by using pre-trained Arabic language models like AraBERT or AraVec to significantly improve performance.
